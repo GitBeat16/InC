@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+    color: white;
+}
+
+.title {
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.signal-buy { color: #00ffcc; }
+.signal-sell { color: #ff4d4d; }
